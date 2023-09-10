@@ -1,3 +1,4 @@
 # Random-pricing-website
-CSS, Html \n
+CSS, Html
+
 website link - https://fahimorko.github.io/Random-pricing-website/
